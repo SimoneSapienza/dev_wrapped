@@ -1,0 +1,7 @@
+python-gitlab
+PyGithub
+matplotlib
+seaborn
+python-dotenv
+rich
+streamlit
